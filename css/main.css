@@ -21,7 +21,7 @@ a {
 }
 
 a:hover {
-    color: cadetblue;
+    color: skyblue;
 }
 
 .main-header {
@@ -139,7 +139,6 @@ li a {
 
 .intro {
     margin: 0 auto;
-    display: flex;
     text-align: center;
 }
 
