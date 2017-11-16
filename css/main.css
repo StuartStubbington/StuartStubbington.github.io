@@ -143,9 +143,13 @@ li a {
     text-align: center;
 }
 
+.intro a{
+    color: skyblue;
+}
+
 .secondary {
         background: #f4f5f7;
-        border: solid yellow 3px;
+        border: solid skyblue 3px;
         border-radius: 25px;
         padding: 10px;
         width: 75%;
@@ -158,6 +162,7 @@ li a {
 }
 
 .tertiary{
+    margin-top: -10px;
     background: #f4f5f7;
     width: 100%;
     padding: 50px;
